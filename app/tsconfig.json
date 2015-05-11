@@ -18,5 +18,6 @@
         "./TestView/TestView.ts",
         "./appView/appView.ts",
         "./main.ts"
-    ]
+    ],
+    "compileOnSave": false
 }

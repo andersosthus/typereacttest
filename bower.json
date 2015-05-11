@@ -1,0 +1,15 @@
+{
+  "name": "testypoo",
+  "version": "0.0.0",
+  "authors": [
+    "Anders Østhus <anders.osthus@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

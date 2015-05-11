@@ -1,0 +1,7 @@
+node_modules/*
+build/*
+!build/index.html
+typings/*
+!typings/node.webpack.d.ts
+bower_components/*
+app/**/*.js

@@ -1,0 +1,12 @@
+{
+    "compileOnSave": false,
+    "filesGlob": [
+        "./typings/**/*.ts"
+    ],
+    "compilerOptions": {},
+    "files": [
+        "./typings/node.webpack.d.ts",
+        "./typings/react/react.d.ts",
+        "./typings/tsd.d.ts"
+    ]
+}

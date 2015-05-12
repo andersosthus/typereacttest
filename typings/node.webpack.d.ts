@@ -33,7 +33,7 @@ declare var require: {
     cache: any;
     extensions: any;
     main: any;
-    ensure(a:any, b:any): any;
+    ensure(dependencies: string[], callback: (require) => void): void;
 };
 
 declare var module: {

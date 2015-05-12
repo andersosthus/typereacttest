@@ -7,6 +7,12 @@
   "installed": {
     "react/react.d.ts": {
       "commit": "843203a2bfbe3cc248672be4b1b4a7ff2dd93bc0"
+    },
+    "rest/rest.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
+    },
+    "when/when.d.ts": {
+      "commit": "846a250e0a6f5e6adf6347ee4ca442a9d1abd8fc"
     }
   }
 }

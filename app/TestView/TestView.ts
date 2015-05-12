@@ -1,5 +1,4 @@
-/// <reference path="../../typings/tsd.d.ts" />
-/// <reference path="../../typings/react/react.d.ts"/>
+/// <reference path="../../typings/app.d.ts" />
 import React = require('react');
 
 var TestView = React.createClass({

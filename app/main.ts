@@ -1,4 +1,4 @@
-/// <reference path="../typings/tsd.d.ts" />
+/// <reference path="../typings/app.d.ts" />
 require('./main.css');
 
 import React = require('react');
